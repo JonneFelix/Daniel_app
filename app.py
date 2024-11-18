@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.write(f"Streamlit-Version: {st.__version__}")
+
 def calculate_heart_rate_zones(age, resting_hr, max_hr=None):
     if max_hr is None:
         max_hr = 220 - age  # Standardformel für maximale Herzfrequenz
