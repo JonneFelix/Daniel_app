@@ -11,6 +11,9 @@ showWarningOnDirectExecution = true
 toolbarMode = "minimal"
 #showSidebarNavigation = true
 
+[server]
+port = 8501
+
 
 
 [theme]
