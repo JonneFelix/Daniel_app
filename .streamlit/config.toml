@@ -1,0 +1,21 @@
+[global]
+disableWidgetStateDuplicationWarning = false
+showWarningOnDirectExecution = true
+
+[logger]
+#level = "info"
+#messageFormat = "%(asctime)s %(levelname) -7s %(name)s: %(message)s"
+
+[client]
+#showErrorDetails = true
+toolbarMode = "minimal"
+#showSidebarNavigation = true
+
+
+
+[theme]
+primaryColor="#4E94D9"
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F0F2F6"
+textColor="#1B3D69"
+font="sans serif"
