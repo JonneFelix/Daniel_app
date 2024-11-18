@@ -12,8 +12,7 @@ toolbarMode = "minimal"
 #showSidebarNavigation = true
 
 [server]
-port = 8501
-
+allowRunOnSave = true
 
 
 [theme]
