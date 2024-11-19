@@ -1,2 +1,4 @@
-streamlit==1.31.0
+streamlit
 watchdog
+matplotlib
+pandas
